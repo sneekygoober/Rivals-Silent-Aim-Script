@@ -2,7 +2,6 @@
 Sorry to anyone wanting to view the source, I've obfuscated it so that the RIVALS developers don't patch this too quickly.
 This script is not open-source. You can also view this script over at [scriptblox.com](https://scriptblox.com/script/RIVALS-Silent-Aim-Keyless-202191) or [haxhell.com](https://haxhell.com/scripts/rivals-rivals-silent-aim-keyless) or [rscripts.net](https://rscripts.net/script/rivals-silent-aim-keyless-e0jY).
 
-Default Team settings:
 ```lua
 local keybind = Enum.KeyCode.B;
 getgenv().blatant = true;
